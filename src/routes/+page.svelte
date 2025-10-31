@@ -39,6 +39,12 @@
 		</h1>
 		<div class="mx-auto mb-6 h-1 w-32 bg-red-600"></div>
 		<h2 class="text-2xl font-bold tracking-wide text-white uppercase md:text-4xl">UC Regents</h2>
+		<a
+			href="/carousel"
+			class="mt-8 inline-block rounded-lg border-2 border-red-600 bg-red-600 px-8 py-3 text-lg font-bold text-white uppercase transition-all hover:bg-transparent hover:text-red-600"
+		>
+			View Slideshow
+		</a>
 	</header>
 
 	<!-- Image Gallery -->
